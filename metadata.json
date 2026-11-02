@@ -1,0 +1,6 @@
+{
+  "name": "Portail Doctoral - Pré-inscription et Contrôle Automatisé",
+  "description": "Plateforme intégrée de pré-inscription et inscription au cycle doctoral avec scan OCR de la CIN, moteur de contrôle automatique des dossiers, workflow RBAC et signature de la charte de thèse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
